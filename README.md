@@ -1,5 +1,6 @@
 # Prova_embraer
 Este é repositorio server como preparação para Prova Técnica da Embraer de 2023. 
+Segue abaixo o conteúdo programatico da prova técnica:
 
 Algoritmos e Estrutura de Dados
 1. Análise de algoritmos.
