@@ -2,7 +2,7 @@
 Este é repositorio server como preparação para Prova Técnica da Embraer de 2023. 
 Segue abaixo o conteúdo programatico da prova técnica:
 
-Algoritmos e Estrutura de Dados
+>> Algoritmos e Estrutura de Dados
 1. Análise de algoritmos.
 2. Estruturas de dados lineares.
 3. Ordenação e busca.
@@ -15,7 +15,7 @@ Algoritmos e Estrutura de Dados
 10. Heurísticas para problemas intratáveis.
 11. Concorrência e semáforos.
 
-Engenharia de Software
+>> Engenharia de Software
 1.Metodologias e Modelos de Desenvolvimento
 2.Engenharia de requisitos
 3.Gerenciamento de Projetos de Software
@@ -26,7 +26,7 @@ práticas);
 6.Processos e Práticas de Desenvolvimento de Software
 7.Qualidade de Software
 
-Estatística
+>> Estatística
 1. Axiomas de probabilidade
 2. Eventos mutuamente excludentes
 2. Teorema da Adição
@@ -37,7 +37,7 @@ Estatística
 7. Distribuição Binomial
 8. Medidas Descritivas (Análise Exploratória de Dados)
 
-Matemática para Computação
+>> Matemática para Computação
 1. Álgebra de Boole e Lógica proposicional;
 2. Logaritmos;
 3.Aritmética de máquina;
