@@ -2,18 +2,18 @@
 Este é repositorio server como preparação para Prova Técnica da Embraer de 2023. 
 Segue abaixo o conteúdo programatico da prova técnica:
 
->> Algoritmos e Estrutura de Dados
-1. Análise de algoritmos.
-2. Estruturas de dados lineares.
-3. Ordenação e busca.
-4. Tabelas de dispersão.
-5. Árvores.
-6. Heaps.
-7. Estruturas de dados para conjuntos disjuntos.
-8. Representações e algoritmos de grafos.
-9. Computabilidade e complexidade computacional.
-10. Heurísticas para problemas intratáveis.
-11. Concorrência e semáforos.
+Algoritmos e Estrutura de Dados
+> 1. Análise de algoritmos.
+  2. Estruturas de dados lineares.
+  3. Ordenação e busca.
+  4. Tabelas de dispersão.
+  5. Árvores.
+  6. Heaps.
+  7. Estruturas de dados para conjuntos disjuntos.
+  8. Representações e algoritmos de grafos.
+  9. Computabilidade e complexidade computacional.
+  10. Heurísticas para problemas intratáveis.
+  11. Concorrência e semáforos.
 
 >> Engenharia de Software
 1.Metodologias e Modelos de Desenvolvimento
